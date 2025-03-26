@@ -23,7 +23,7 @@ This project is my first **cybersecurity homelab** setup. I created a virtualize
 - **IP Addresses**: Assigned dynamically via **DHCP**  
 
 📸 **Screenshot - VirtualBox Network Settings:**  
-![VirtualBox Network Settings](image.png)  
+![VirtualBox Network Settings](net1.png)  
 
 ---
 
@@ -34,7 +34,7 @@ This project is my first **cybersecurity homelab** setup. I created a virtualize
 ✅ **Document findings and learnings**  
 
 📸 **Screenshot - Kali Linux Nmap Scan:**  
-![Nmap Scan](screenshots/nmap-scan.png)  
+![Nmap Scan](nmap1.png)  
 
 ---
 
@@ -43,9 +43,6 @@ This project is my first **cybersecurity homelab** setup. I created a virtualize
 2️⃣ **Use Dirb/Gobuster** for directory enumeration  
 3️⃣ **Analyze web vulnerabilities & attempt exploits**  
 4️⃣ **Document results & share insights**  
-
-📸 **Screenshot - Attack Execution:**  
-![Attack Execution](screenshots/attack-execution.png)  
 
 ---
 
