@@ -23,7 +23,7 @@ This project is my first **cybersecurity homelab** setup. I created a virtualize
 - **IP Addresses**: Assigned dynamically via **DHCP**  
 
 📸 **Screenshot - VirtualBox Network Settings:**  
-![VirtualBox Network Settings](screenshots/virtualbox-network.png)  
+![VirtualBox Network Settings](image.png)  
 
 ---
 
